@@ -1,0 +1,19 @@
+{
+  "name": "reverse-int",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elena-web/reverse-int.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elena-web/reverse-int/issues"
+  },
+  "homepage": "https://github.com/Elena-web/reverse-int#readme"
+}
